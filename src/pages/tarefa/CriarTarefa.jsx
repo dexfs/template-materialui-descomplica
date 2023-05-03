@@ -119,6 +119,7 @@ const CriarTarefa = ({handleClose, tarefas, setTarefas}) =>{
                   <MenuItem value={'Recurso 1'}>Recurso 1</MenuItem>
                   <MenuItem value={'Recurso 2'}>Recurso 2</MenuItem>
                   <MenuItem value={'Recurso 3'}>Recurso 3</MenuItem>
+                  <MenuItem value={'Recurso 3'}>Recurso 4</MenuItem>
                 </Select>
               </FormControl>
             </Grid>
